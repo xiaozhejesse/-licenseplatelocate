@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ImageProcess
+Bundle-SymbolicName: ImageProcess
+Bundle-Version: 1.0.0
+Sealed: true
+Main-Class: ControlPanel
+
+
